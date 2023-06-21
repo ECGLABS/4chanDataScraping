@@ -7,3 +7,5 @@ correlate to stock tickers. It also counts there number of occurences.
 
 Using the script:
 The script is very plug n' play. Just download the 4chanDataScraping script and open it into your IDE of choice and run it, but before doing so, change out the thread URL to the thread that you want to pull stock data from (This can be found on line 28). 
+
+Additionally if you just want 3 letter phrases or 4 letter phrases that can be changed on line 29 just below where you set the thread URL.
